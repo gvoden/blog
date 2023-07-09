@@ -1,3 +1,19 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://gvoden.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = "en-us"
+title = "Gvoden's Blog"
+theme = "m10c"
+
+[params]
+  author = "Georgi Vodenitcharov"
+  description = "A blog about cloud, cybersecurity, DevOps, DevSecOps, networking."
+
+  [[params.social]]
+    icon = "github"
+    name = "GitHub"
+    url = "https://github.com/gvoden"
+
+  [[params.social]]
+    icon = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/gvoden4prez"
