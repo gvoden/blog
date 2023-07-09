@@ -1,7 +1,7 @@
 baseURL = 'https://gvoden.github.io/'
 languageCode = 'en-us'
 title = "Gvoden's Blog"
-theme = "m10c"
+theme = "hugo-theme-fuji"
 
 [params]
   author = "Georgi Vodenitcharov"
