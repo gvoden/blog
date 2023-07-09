@@ -1,3 +1,7 @@
 [submodule "themes/hugo-theme-fuji"]
 	path = themes/hugo-theme-fuji
 	url = https://github.com/dsrkafuu/hugo-theme-fuji
+[submodule "new-public"]
+	path = new-public
+	url = https://github.com/gvoden/blog.git
+	branch = main
